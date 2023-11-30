@@ -1,2 +1,2 @@
 #!/bin/bash
-$PYFILE = "Hello World"
+python3 $PYFILE
