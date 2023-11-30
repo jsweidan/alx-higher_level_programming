@@ -1,2 +1,3 @@
-#!/usr/bin/python3
+#!/bin/bash
 $PYFILE = "Hello Python"
+	print(Hello Python)
