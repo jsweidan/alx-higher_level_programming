@@ -1,4 +1,4 @@
 -- displays the number of records.
-SELECT hbtn_0c_0 COUNT(*)
+SELECT id
 FROM first_table
-WHERE id = 89;
+WHERE id = '89';
