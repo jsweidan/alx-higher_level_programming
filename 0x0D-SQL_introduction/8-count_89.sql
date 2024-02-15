@@ -1,4 +1,3 @@
 -- displays the number of records.
-SELECT COUNT(*)
-FROM 'first_table'
-WHERE 'id' = 89;
+SELECT id FROM first_table
+	WHERE 'id' = 89;
